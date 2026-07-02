@@ -1,7 +1,11 @@
-# Agente Santana Ar Condicionado
+# Agente Moreira Ar Condicionado e Refrigeração
 
-Backend de chat com Claude para a Santana Ar Condicionado, memoria por sessao
+Backend de chat com Claude para a Moreira Ar Condicionado e Refrigeração, memoria por sessao
 e pronto para deploy no Railway.
+
+> Este repositorio ainda usa o nome `agente-santana-ar-condicionado` (nome
+> original do repositorio/infraestrutura); o conteudo do agente ja esta
+> atualizado para a marca Moreira.
 
 ## Features
 
@@ -34,7 +38,7 @@ e pronto para deploy no Railway.
 
 4. Preencha as variaveis:
    - `ANTHROPIC_API_KEY` - sua chave da Anthropic
-   - `ALLOWED_ORIGIN` - dominio do site da Santana autorizado a chamar a API
+   - `ALLOWED_ORIGIN` - dominio do site da Moreira autorizado a chamar a API
    - `CHAT_SESSION_SECRET` - segredo longo e aleatorio para assinar tokens temporarios do chat
    - voce pode informar multiplos dominios em `ALLOWED_ORIGIN`, separados por virgula
 
