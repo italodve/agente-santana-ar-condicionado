@@ -335,5 +335,5 @@ app.post('/lead', requireTrustedOrigin, leadLimiter, async (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Agente Santana Ar Condicionado rodando na porta ${PORT}`);
+  console.log(`Agente Moreira Ar Condicionado rodando na porta ${PORT}`);
 });

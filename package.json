@@ -1,7 +1,7 @@
 {
   "name": "agente-santana-ar-condicionado",
   "version": "1.0.0",
-  "description": "Agente de atendimento da Santana Ar Condicionado, powered by Claude, pronto para deploy no Railway",
+  "description": "Agente de atendimento da Moreira Ar Condicionado e Refrigeração, powered by Claude, pronto para deploy no Railway",
   "type": "module",
   "main": "src/server.js",
   "scripts": {
